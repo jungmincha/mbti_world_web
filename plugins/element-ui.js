@@ -1,6 +1,5 @@
 import Vue from 'vue'
 import ElementUI from 'element-ui'
-import 'assets/css/theme-npd/src/index.scss'
 import locale from 'element-ui/lib/locale/lang/ko'
 
 import {
